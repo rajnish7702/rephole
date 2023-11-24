@@ -1,0 +1,77 @@
+index,id,content_type_id,codename,name
+0,1,1,add_logentry,Can add log entry
+1,2,1,change_logentry,Can change log entry
+2,3,1,delete_logentry,Can delete log entry
+3,4,1,view_logentry,Can view log entry
+4,5,2,add_permission,Can add permission
+5,6,2,change_permission,Can change permission
+6,7,2,delete_permission,Can delete permission
+7,8,2,view_permission,Can view permission
+8,9,3,add_group,Can add group
+9,10,3,change_group,Can change group
+10,11,3,delete_group,Can delete group
+11,12,3,view_group,Can view group
+12,13,4,add_contenttype,Can add content type
+13,14,4,change_contenttype,Can change content type
+14,15,4,delete_contenttype,Can delete content type
+15,16,4,view_contenttype,Can view content type
+16,17,5,add_session,Can add session
+17,18,5,change_session,Can change session
+18,19,5,delete_session,Can delete session
+19,20,5,view_session,Can view session
+20,21,6,add_user,Can add User List
+21,22,6,change_user,Can change User List
+22,23,6,delete_user,Can delete User List
+23,24,6,view_user,Can view User List
+24,25,7,add_user_client,Can add User: Client List
+25,26,7,change_user_client,Can change User: Client List
+26,27,7,delete_user_client,Can delete User: Client List
+27,28,7,view_user_client,Can view User: Client List
+28,29,8,add_user_si,Can add User: SI List
+29,30,8,change_user_si,Can change User: SI List
+30,31,8,delete_user_si,Can delete User: SI List
+31,32,8,view_user_si,Can view User: SI List
+32,33,9,add_client,Can add Client List
+33,34,9,change_client,Can change Client List
+34,35,9,delete_client,Can delete Client List
+35,36,9,view_client,Can view Client List
+36,37,10,add_si,Can add Client: SI List
+37,38,10,change_si,Can change Client: SI List
+38,39,10,delete_si,Can delete Client: SI List
+39,40,10,view_si,Can view Client: SI List
+40,41,11,add_crontabschedule,Can add crontab
+41,42,11,change_crontabschedule,Can change crontab
+42,43,11,delete_crontabschedule,Can delete crontab
+43,44,11,view_crontabschedule,Can view crontab
+44,45,12,add_periodictask,Can add periodic task
+45,46,12,change_periodictask,Can change periodic task
+46,47,12,delete_periodictask,Can delete periodic task
+47,48,12,view_periodictask,Can view periodic task
+48,49,13,add_intervalschedule,Can add interval
+49,50,13,change_intervalschedule,Can change interval
+50,51,13,delete_intervalschedule,Can delete interval
+51,52,13,view_intervalschedule,Can view interval
+52,53,14,add_periodictasks,Can add periodic tasks
+53,54,14,change_periodictasks,Can change periodic tasks
+54,55,14,delete_periodictasks,Can delete periodic tasks
+55,56,14,view_periodictasks,Can view periodic tasks
+56,57,15,add_taskmeta,Can add task state
+57,58,15,change_taskmeta,Can change task state
+58,59,15,delete_taskmeta,Can delete task state
+59,60,15,view_taskmeta,Can view task state
+60,61,16,add_tasksetmeta,Can add saved group result
+61,62,16,change_tasksetmeta,Can change saved group result
+62,63,16,delete_tasksetmeta,Can delete saved group result
+63,64,16,view_tasksetmeta,Can view saved group result
+64,65,17,add_taskstate,Can add task
+65,66,17,change_taskstate,Can change task
+66,67,17,delete_taskstate,Can delete task
+67,68,17,view_taskstate,Can view task
+68,69,18,add_workerstate,Can add worker
+69,70,18,change_workerstate,Can change worker
+70,71,18,delete_workerstate,Can delete worker
+71,72,18,view_workerstate,Can view worker
+72,73,19,add_token,Can add Token
+73,74,19,change_token,Can change Token
+74,75,19,delete_token,Can delete Token
+75,76,19,view_token,Can view Token

@@ -1,0 +1,7 @@
+index,name,seq
+0,django_migrations,20
+1,django_admin_log,1
+2,django_content_type,23
+3,auth_permission,76
+4,auth_group,0
+5,djcelery_taskstate,0

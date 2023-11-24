@@ -1,0 +1,2 @@
+index,id,action_time,object_id,object_repr,change_message,content_type_id,user_id,action_flag
+0,1,2021-04-16 08:54:57.647671,503ca95c2c911dd3c5c75ecb76f92a819643b923,lincode@lincode.ai3,"[{""changed"": {""fields"": [""Is deleted""]}}]",20,,2

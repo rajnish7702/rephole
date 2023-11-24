@@ -1,0 +1,4 @@
+index,user_ptr_id,client_id,client_user_manager,is_client_admin,is_system_integrator
+0,f6a3d5d8-92fd-4ad0-9b4e-c38fa4147135,b0c2e0e3-8aa5-4186-8000-b1377d679772,None,1,0
+1,e6c3cfcf-72d4-4b39-baa2-2e614bd8b45f,b0c2e0e3-8aa5-4186-8000-b1377d679772,abc,0,0
+2,7b954b16-72b5-4fb9-a0e6-3a4080c2213a,b0c2e0e3-8aa5-4186-8000-b1377d679772,abc,0,0
